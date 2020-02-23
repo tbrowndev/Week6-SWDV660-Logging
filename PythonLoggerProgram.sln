@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLoggerProgram", "PythonLoggerProgram\PythonLoggerProgram.pyproj", "{EBED92E8-5853-497F-826C-9F039F1E355B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBED92E8-5853-497F-826C-9F039F1E355B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBED92E8-5853-497F-826C-9F039F1E355B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273DE47A-D7A7-4FC4-B88D-01D1B3E79ED5}
+	EndGlobalSection
+EndGlobal
